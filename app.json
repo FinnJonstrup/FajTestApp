@@ -1,0 +1,26 @@
+{
+  "id": "a4d44d89-0fb3-40f5-bff3-145b7729f556",
+  "name": "FajTestApp",
+  "publisher": "Naviators",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50200,
+      "to": 50249
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://FajTestApp.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
