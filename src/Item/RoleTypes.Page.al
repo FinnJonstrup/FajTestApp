@@ -1,12 +1,12 @@
 page 50200 "NCX Role Types"
 {
-    
+
     ApplicationArea = All;
     Caption = 'NCX Role Types';
     PageType = List;
     SourceTable = "NCX Role Type";
     UsageCategory = Lists;
-    
+
     layout
     {
         area(content)
@@ -15,7 +15,7 @@ page 50200 "NCX Role Types"
             {
                 field(Code; Rec.Code)
                 {
-                    ToolTip = 'Specifies the value of the Code field';
+                    ToolTip = 'Specifies the valuof the Code field';
                     ApplicationArea = All;
                 }
                 field(Description; Rec.Description)
@@ -26,5 +26,5 @@ page 50200 "NCX Role Types"
             }
         }
     }
-    
+
 }
