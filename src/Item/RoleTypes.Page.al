@@ -16,6 +16,7 @@ page 50200 "NCX Role Types"
                 field(Code; Rec.Code)
                 {
                     ToolTip = 'Specifies the valuof the Code field';
+
                     ApplicationArea = All;
                 }
                 field(Description; Rec.Description)
